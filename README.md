@@ -1,2 +1,2 @@
-# achwi00
+# regresja liniowa
 Projekt regresja liniowa
